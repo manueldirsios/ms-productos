@@ -1,0 +1,8 @@
+com\gd\productos\controller\ProductoController.class
+com\gd\productos\config\DynamoDBConfig.class
+com\gd\productos\Application.class
+com\gd\productos\repository\ProductoRepository.class
+com\gd\productos\entities\Mensaje.class
+com\gd\productos\StreamLambdaHandler.class
+com\gd\productos\service\ProductoService.class
+com\gd\productos\entities\Producto.class
