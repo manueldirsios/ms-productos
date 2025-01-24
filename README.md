@@ -40,5 +40,9 @@ Se desplega en AMAZON LAMBDA.
 
 
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](https://www.dirsio.mx/)
+## Licencia
+Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
+
 
 ![Logo](https://web-dirsio.s3.us-west-1.amazonaws.com/favicon.ico)
+
